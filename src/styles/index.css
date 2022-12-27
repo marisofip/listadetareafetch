@@ -19,7 +19,11 @@ h1{ padding-top: 20px;
 
 
 .container-fluid {
+    
     box-shadow: 5px 5px 15px gray;
     height: 600px;
     margin-top: 20px;
+}
+#boton {
+    margin-top: 0;
 }
